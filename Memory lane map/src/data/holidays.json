@@ -1,0 +1,128 @@
+[
+  {
+    "location": "England",
+    "latitude": 52.3555,
+    "longitude": 1.1743,
+    "title": "The one where parents dream come true",
+    "description": "My family has never been to another country.My father and mother always liked to visit England from the old days.I remember they always had this plan but never got the chance because of money.This is my dream to take them there and fulfill their dream.",
+    "type": "Bucket List",
+    "date": "2022-10-25"
+  },
+  {
+    "location": "Japan",
+    "latitude": 36.2048,
+    "longitude": 138.2529,
+    "title": "The one with cherry blossom",
+    "description": "My friend always wants me and my family to visit Japan.One day we will go to visit and make sure to catch the cherry blossom season and see Mount fuji .",
+    "type": "Bucket List",
+    "date": "2022-12-05"
+  },
+  {
+    "location": "Mauritius",
+    "latitude": -20.3484,
+    "longitude": 57.5522,
+    "title": "The one with gradma's stories",
+    "description": "My father is half french and half sri lankan.His mom was from Mauritius.One day I would fly my parents to see my grandma's country.  ",
+    "type": "Bucket List",
+    "date": "2023-02-15"
+  },
+  {
+    "location": "Hanthna",
+    "longitude": 80.652,
+    "latitude": 7.2602,
+    "title": "The one with cold night",
+    "description": "It was Office camping day 2022.We went early to hike Uduwela Rock climbing and climbed down before the sunset.We collected some woods for the bonfire and set up the tents before dark fell upon us.It was a couple of days before the full moon and the sky was so beautiful with the stars and moon.Cold night was saved by the bonfire and the calmness added best memories to our camping night. ",
+    "type": "Holidays",
+    "date": "2020-01-12"
+  },
+  {
+    "location": "Bomburu Ella Waterfall",
+    "longitude": 80.8308,
+    "latitude": 6.9474,
+    "title": "The one with travel video",
+    "description": "We were supposed to start the trip at 7 but ended up starting at 9.Had a couple of bikes as well as 1 car. This is one of the most beautiful waterfalls in my country.We did our first travel video here with our tetra gang and it was one of many trips we will remember until we die.",
+    "type": "Holidays",
+    "date": "2020-04-14"
+  },
+  {
+    "location": "Horton Plains National Park",
+    "longitude": 80.8091,
+    "latitude": 6.8028,
+    "title": "The one with world's end",
+    "description": "It was a night to remember because we finally got the chance to camp in our dream place.Yes it's the world's end.It was freezing cold but the clear sky and its dazzling stars  gave us another best memory in our lives.",
+    "type": "Holidays",
+    "date": "2020-07-20"
+  },
+  {
+    "location": "Ella train ride",
+    "longitude": 81.0466,
+    "latitude": 6.8667,
+    "title": "The one with Matt",
+    "description": "This is the train ride and 3 day trip with Matt.It was another day i kept my word and ended up finding life longing friendship.It was one of the best 3 days trip with camping, hiking and a lot of enjoyment.",
+    "type": "Holidays",
+    "date": "2020-08-25"
+  },
+  {
+    "location": "Mirissa",
+    "longitude": 80.4716,
+    "latitude": 5.9483,
+    "title": "The one with highway reverse",
+    "description": "Started traveling at night time and we missed our exit on the highway to matara.We had 2 choices and we decided to take the risk and reverse on highway.But of course we got caught and left with a warning.We had bath in beach and collected a lot of memories as well.",
+    "type": "Holidays",
+    "date": "2020-12-20"
+  },
+  {
+    "location": "Jafna",
+    "longitude": 80.0255,
+    "latitude": 9.6615,
+    "title": "The one with happy family",
+    "description": "My dad wanted to show us Jaffna where he used to work back in days.It's the north side of our country and somewhere we haven't been.We  got the night mail train and for the first time we got the chance to ride on a boat to an island.Enjoyed best ~WADE~ in my country and everyone was happy.",
+    "type": "Holidays",
+    "date": "2020-12-12"
+  },
+  {
+    "location": "Chilaw",
+    "longitude": 79.8017,
+    "latitude": 7.562,
+    "title": "The one with little stars",
+    "description": "Organized an event to teach underprivileged kids about stars and the universe.Observed and showed them the beauty of the universe through lense of the telescopes.Filled their hearts with curiosity out in the universe.",
+    "type": "Projects",
+    "date": "2021-03-05"
+  },
+  {
+    "location": "Hasalaka",
+    "longitude": 80.9539,
+    "latitude": 7.3573,
+    "title": "The one with pure souls",
+    "description": "Donated books for rural area school kids.Had a walk to a mountain through a jungle around 10 kms to find this beautiful untouched rural school and village.We were happy that we took part in this project and hopefully I will be able to help these beautiful souls one day soon.",
+    "type": "Projects",
+    "date": "2021-05-15"
+  },
+  {
+    "location": "Nuwaraeliya",
+    "longitude": 80.7891,
+    "latitude": 6.9497,
+    "title": "The one with future decisions",
+    "description": "As our annual project we have done a seminar to help O/L students with their studies so that they can refresh their memories.",
+    "type": "Projects",
+    "date": "2021-06-08"
+  },
+  {
+    "location": "Rangala",
+    "longitude": 80.7755,
+    "latitude": 7.323,
+    "title": "The one with river cross",
+    "description": "It was a Last minute trip,and we were urged to watch sundown or sunrise.Among 3 places we finally chose a 4th place :) to visit, and ended up in a small river place to enjoy our evening, while enjoying a nice sunkissed sunset.",
+    "type": "Swimmings",
+    "date": "2021-08-19"
+  },
+  {
+    "location": "Kahanwita river",
+    "latitude": 7.0009905,
+    "longitude": 80.26241083,
+    "title": "The one with fat lier",
+    "description": "After so many times postponing our fatty friend finally took us to a promised river while leaving another good memory in our hearts.",
+    "type": "Swimmings",
+    "date": "2021-10-23"
+  }
+]
